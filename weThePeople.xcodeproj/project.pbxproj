@@ -15,6 +15,7 @@
 		A96DAE7024899B1300C22B65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A96DAE6E24899B1300C22B65 /* LaunchScreen.storyboard */; };
 		A96DAE792489A6F400C22B65 /* Petition.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96DAE782489A6F400C22B65 /* Petition.swift */; };
 		A96DAE7B2489A70100C22B65 /* Petitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96DAE7A2489A70100C22B65 /* Petitions.swift */; };
+		A96DAE7D2489AFE500C22B65 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96DAE7C2489AFE500C22B65 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		A96DAE7124899B1300C22B65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A96DAE782489A6F400C22B65 /* Petition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petition.swift; sourceTree = "<group>"; };
 		A96DAE7A2489A70100C22B65 /* Petitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petitions.swift; sourceTree = "<group>"; };
+		A96DAE7C2489AFE500C22B65 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				A96DAE782489A6F400C22B65 /* Petition.swift */,
 				A96DAE7A2489A70100C22B65 /* Petitions.swift */,
+				A96DAE7C2489AFE500C22B65 /* DetailViewController.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				A96DAE6824899B1100C22B65 /* ViewController.swift in Sources */,
 				A96DAE792489A6F400C22B65 /* Petition.swift in Sources */,
 				A96DAE6424899B1100C22B65 /* AppDelegate.swift in Sources */,
+				A96DAE7D2489AFE500C22B65 /* DetailViewController.swift in Sources */,
 				A96DAE6624899B1100C22B65 /* SceneDelegate.swift in Sources */,
 				A96DAE7B2489A70100C22B65 /* Petitions.swift in Sources */,
 			);
